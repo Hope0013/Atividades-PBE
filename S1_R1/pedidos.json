@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "cliente": "Ana",
+        "Item1": "Mesa",
+        "valorItem1": 180,
+        "taxaEntrega": 10,
+        "desconto":false,
+        "valorTotal": 190,
+        "dataPedido": "14-04-2026",
+        "localEntrega":"Rua X, 10, Bairro Centro, Americana - SP",
+        "entregue": false
+    }
+]
